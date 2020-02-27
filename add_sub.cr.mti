@@ -1,0 +1,126 @@
+C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/postadder26.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/postadder26.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module postadder26
+
+Top level modules:
+	postadder26
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/rca.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/rca.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module fa
+-- Compiling module rca8
+-- Compiling module rca16
+-- Compiling module rca9
+-- Compiling module rca10
+-- Compiling module rca25
+-- Compiling module rca26
+
+Top level modules:
+	rca10
+	rca26
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/compare_exponent.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/compare_exponent.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module compare_exponent
+
+Top level modules:
+	compare_exponent
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/preadder26.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/preadder26.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module preadder26
+
+Top level modules:
+	preadder26
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/findbit1.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/findbit1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module findbit1
+
+Top level modules:
+	findbit1
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/normalize.v {1 {vlog -work work -stats=none {C:\Users\Tan\Desktop\final\bonus\add_sub32_rca\normalize.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module normalize
+
+Top level modules:
+	normalize
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/mux.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/mux.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux24
+-- Compiling module mux8
+-- Compiling module mux1
+
+Top level modules:
+	mux24
+	mux8
+	mux1
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/resultS.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/resultS.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module resultS_addsub
+
+Top level modules:
+	resultS_addsub
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/add_sub.v {1 {vlog -work work -stats=none {C:\Users\Tan\Desktop\final\bonus\add_sub32_rca\add_sub.v}
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module add_sub
+
+Top level modules:
+	add_sub
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/shiftright.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/shiftright.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shiftright24
+-- Compiling module shiftrightby1
+-- Compiling module shiftrightby2
+-- Compiling module shiftrightby4
+-- Compiling module shiftrightby8
+-- Compiling module shiftrightby16
+
+Top level modules:
+	shiftright24
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/check_input.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/check_input.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module checkspecial
+
+Top level modules:
+	checkspecial
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/add_sub_tb.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/add_sub_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module add_sub_tb
+
+Top level modules:
+	add_sub_tb
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/tc.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/tc.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tc25
+-- Compiling module tc10
+-- Compiling module tc9
+-- Compiling module tc8
+
+Top level modules:
+	tc25
+	tc10
+	tc9
+	tc8
+
+} {} {}} C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/shiftleft.v {1 {vlog -work work -stats=none C:/Users/Tan/Desktop/final/bonus/add_sub32_rca/shiftleft.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module shiftleft
+-- Compiling module shiftleftby1
+-- Compiling module shiftleftby2
+-- Compiling module shiftleftby4
+-- Compiling module shiftleftby8
+-- Compiling module shiftleftby16
+
+Top level modules:
+	shiftleft
+
+} {} {}}
